@@ -1,0 +1,3086 @@
+{
+  "name": "notes_home",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "tYWozzbTJ6aAwNxFE8jvVe",
+    "node": "594:1590",
+    "version": "4000109665",
+    "component-id": "49e2b6223530424c5900b912c70c1bbfa86c812a"
+  },
+  "default": "Notes - Home",
+  "documentation": "Page articles",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "gg:arrow-top-right-o"
+      },
+      {
+        "type": "group",
+        "id": "Public Notes"
+      },
+      {
+        "type": "group",
+        "id": "Public Notes1"
+      },
+      {
+        "type": "group",
+        "id": "Public Notes2"
+      },
+      {
+        "type": "group",
+        "id": "Group 19"
+      },
+      {
+        "type": "group",
+        "id": "Group 20"
+      },
+      {
+        "type": "group",
+        "id": "Frame 1"
+      },
+      {
+        "type": "group",
+        "id": "Top Bar"
+      },
+      {
+        "type": "group",
+        "id": "Bars / Status Bar / iPhone / Light"
+      },
+      {
+        "type": "group",
+        "id": "Tab Bar"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 18"
+      },
+      {
+        "type": "text",
+        "id": "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment"
+      },
+      {
+        "type": "text",
+        "id": "ABC News | Podcast"
+      },
+      {
+        "type": "text",
+        "id": "10k | 2h"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 19"
+      },
+      {
+        "type": "vector",
+        "id": "Heart"
+      },
+      {
+        "type": "group",
+        "id": "Author"
+      },
+      {
+        "type": "text",
+        "id": "Karmen Baric"
+      },
+      {
+        "type": "group",
+        "id": "Profile Pic"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 6"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 20"
+      },
+      {
+        "type": "text",
+        "id": "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment1"
+      },
+      {
+        "type": "text",
+        "id": "ABC News | Podcast1"
+      },
+      {
+        "type": "text",
+        "id": "10k | 2h1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 21"
+      },
+      {
+        "type": "vector",
+        "id": "Heart1"
+      },
+      {
+        "type": "group",
+        "id": "Author1"
+      },
+      {
+        "type": "text",
+        "id": "Karmen Baric1"
+      },
+      {
+        "type": "group",
+        "id": "Profile Pic1"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 7"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 22"
+      },
+      {
+        "type": "text",
+        "id": "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment2"
+      },
+      {
+        "type": "text",
+        "id": "ABC News | Podcast2"
+      },
+      {
+        "type": "text",
+        "id": "10k | 2h2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 23"
+      },
+      {
+        "type": "vector",
+        "id": "Heart2"
+      },
+      {
+        "type": "group",
+        "id": "Author2"
+      },
+      {
+        "type": "text",
+        "id": "Karmen Baric2"
+      },
+      {
+        "type": "group",
+        "id": "Profile Pic2"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 8"
+      },
+      {
+        "type": "group",
+        "id": "Filter"
+      },
+      {
+        "type": "text",
+        "id": "Today"
+      },
+      {
+        "type": "text",
+        "id": "Highest rated"
+      },
+      {
+        "type": "group",
+        "id": "Group"
+      },
+      {
+        "type": "group",
+        "id": "ant-design:caret-down-outlined"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "group",
+        "id": "Filter1"
+      },
+      {
+        "type": "text",
+        "id": "Top Themes"
+      },
+      {
+        "type": "text",
+        "id": "Highest rated1"
+      },
+      {
+        "type": "group",
+        "id": "Group1"
+      },
+      {
+        "type": "group",
+        "id": "ant-design:caret-down-outlined1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "group",
+        "id": "Themes"
+      },
+      {
+        "type": "group",
+        "id": "Themes1"
+      },
+      {
+        "type": "group",
+        "id": "Themes2"
+      },
+      {
+        "type": "group",
+        "id": "Themes3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 28"
+      },
+      {
+        "type": "text",
+        "id": "Architecture"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 29"
+      },
+      {
+        "type": "text",
+        "id": "Architecture1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 30"
+      },
+      {
+        "type": "text",
+        "id": "Architecture2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 31"
+      },
+      {
+        "type": "text",
+        "id": "Architecture3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 24"
+      },
+      {
+        "type": "group",
+        "id": "User"
+      },
+      {
+        "type": "group",
+        "id": "Add note"
+      },
+      {
+        "type": "group",
+        "id": "Notes"
+      },
+      {
+        "type": "group",
+        "id": "Home"
+      },
+      {
+        "type": "vector",
+        "id": "Hitbox"
+      },
+      {
+        "type": "group",
+        "id": "magnifying glass"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      },
+      {
+        "type": "vector",
+        "id": "Vector7"
+      },
+      {
+        "type": "vector",
+        "id": "Hitbox1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector8"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 25"
+      },
+      {
+        "type": "text",
+        "id": "Home1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 26"
+      },
+      {
+        "type": "text",
+        "id": "Notes1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 16"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 27"
+      },
+      {
+        "type": "group",
+        "id": "Battery"
+      },
+      {
+        "type": "group",
+        "id": "Time Style"
+      },
+      {
+        "type": "vector",
+        "id": "Border"
+      },
+      {
+        "type": "vector",
+        "id": "Cap"
+      },
+      {
+        "type": "vector",
+        "id": "Capacity"
+      },
+      {
+        "type": "text",
+        "id": "Time"
+      },
+      {
+        "type": "vector",
+        "id": "Navbar"
+      },
+      {
+        "type": "group",
+        "id": "Library"
+      },
+      {
+        "type": "group",
+        "id": "Note"
+      },
+      {
+        "type": "group",
+        "id": "User1"
+      },
+      {
+        "type": "group",
+        "id": "Search"
+      },
+      {
+        "type": "vector",
+        "id": "Line 8"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 32"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 33"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 34"
+      },
+      {
+        "type": "vector",
+        "id": "Hitbox2"
+      },
+      {
+        "type": "group",
+        "id": "Library1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector9"
+      },
+      {
+        "type": "vector",
+        "id": "Hitbox3"
+      },
+      {
+        "type": "vector",
+        "id": "Note1"
+      },
+      {
+        "type": "vector",
+        "id": "Hitbox4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector10"
+      },
+      {
+        "type": "vector",
+        "id": "Hitbox5"
+      }
+    ],
+    "modes": {
+      "Notes - Home": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "gg:arrow-top-right-o",
+              "Public Notes",
+              "Public Notes1",
+              "Public Notes2",
+              "Group 19",
+              "Group 20",
+              "Frame 1",
+              "Top Bar",
+              "Bars / Status Bar / iPhone / Light",
+              "Tab Bar"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "gg:arrow-top-right-o",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "176.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "367.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false"
+          },
+          {
+            "id": "Public Notes",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "308.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "343.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "142.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 18",
+              "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment",
+              "ABC News | Podcast",
+              "10k | 2h",
+              "Rectangle 19",
+              "Heart",
+              "Author"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Public Notes1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "460.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "343.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "142.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 20",
+              "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment1",
+              "ABC News | Podcast1",
+              "10k | 2h1",
+              "Rectangle 21",
+              "Heart1",
+              "Author1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Public Notes2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "612.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "343.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "142.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 22",
+              "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment2",
+              "ABC News | Podcast2",
+              "10k | 2h2",
+              "Rectangle 23",
+              "Heart2",
+              "Author2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 19",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "258.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "343.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Filter",
+              "Today"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 20",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "98.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "343.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Filter1",
+              "Top Themes"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "148.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "462.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Themes",
+              "Themes1",
+              "Themes2",
+              "Themes3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Top Bar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "44.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "367.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 24",
+              "User",
+              "Add note",
+              "Notes",
+              "Home"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Bars / Status Bar / iPhone / Light",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "375.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Battery",
+              "Time Style"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Tab Bar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "766.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "375.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Navbar",
+              "Library",
+              "Note",
+              "User1",
+              "Search",
+              "Line 8",
+              "Rectangle 32",
+              "Rectangle 33",
+              "Rectangle 34"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 18",
+            "margin": {
+              "left": "100.5",
+              "right": "100.5"
+            },
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "6.0",
+              "offset-x": "0.0",
+              "offset-y": "5.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-6.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_18.svg"
+          },
+          {
+            "id": "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "text-content": "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "ABC News | Podcast",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "59.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.30980392156862746"
+            },
+            "text-content": "ABC News | Podcast",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "10k | 2h",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "-13.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-5.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "annotated-text-content": {
+              "text": "10k | 2h",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "3",
+                  "annotated-text-style": {
+                    "font-weight": "600.0",
+                    "typeface": "Gibson",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "0.0",
+                      "saturation": "0.0",
+                      "value": "0.2"
+                    }
+                  }
+                },
+                {
+                  "span-start": "3",
+                  "span-length": "5",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "0.0",
+                      "saturation": "0.0",
+                      "value": "0.2"
+                    }
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Rectangle 19",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "-12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              }
+            },
+            "vector-content": "rectangle_19.svg"
+          },
+          {
+            "id": "Heart",
+            "margin": {
+              "left": "266.0",
+              "top": "120.0",
+              "right": "65.0",
+              "bottom": "12.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "heart.svg"
+          },
+          {
+            "id": "Author",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "100.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "122.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Karmen Baric",
+              "Profile Pic"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Karmen Baric",
+            "margin": {
+              "left": "36.0",
+              "top": "7.0",
+              "bottom": "4.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Karmen Baric",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Profile Pic",
+            "margin": {
+              "right": "92.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Ellipse 6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Ellipse 6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "vector-content": "ellipse_6.svg"
+          },
+          {
+            "id": "Rectangle 20",
+            "margin": {
+              "left": "100.5",
+              "right": "100.5"
+            },
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "6.0",
+              "offset-x": "0.0",
+              "offset-y": "5.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-6.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_20.svg"
+          },
+          {
+            "id": "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "text-content": "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "ABC News | Podcast1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "59.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.30980392156862746"
+            },
+            "text-content": "ABC News | Podcast",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "10k | 2h1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "-13.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-5.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "annotated-text-content": {
+              "text": "10k | 2h",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "3",
+                  "annotated-text-style": {
+                    "font-weight": "600.0",
+                    "typeface": "Gibson",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "0.0",
+                      "saturation": "0.0",
+                      "value": "0.2"
+                    }
+                  }
+                },
+                {
+                  "span-start": "3",
+                  "span-length": "5",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "0.0",
+                      "saturation": "0.0",
+                      "value": "0.2"
+                    }
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Rectangle 21",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "-12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              }
+            },
+            "vector-content": "rectangle_21.svg"
+          },
+          {
+            "id": "Heart1",
+            "margin": {
+              "left": "266.0",
+              "top": "120.0",
+              "right": "65.0",
+              "bottom": "12.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "heart1.svg"
+          },
+          {
+            "id": "Author1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "100.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "122.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Karmen Baric1",
+              "Profile Pic1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Karmen Baric1",
+            "margin": {
+              "left": "36.0",
+              "top": "7.0",
+              "bottom": "4.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Karmen Baric",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Profile Pic1",
+            "margin": {
+              "right": "92.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Ellipse 7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Ellipse 7",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "vector-content": "ellipse_7.svg"
+          },
+          {
+            "id": "Rectangle 22",
+            "margin": {
+              "left": "100.5",
+              "right": "100.5"
+            },
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "6.0",
+              "offset-x": "0.0",
+              "offset-y": "5.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-6.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_22.svg"
+          },
+          {
+            "id": "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "text-content": "Fired Amazon worker leads protest outside Jeff Bezos' $16M NYC apartment",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "ABC News | Podcast2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "59.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.30980392156862746"
+            },
+            "text-content": "ABC News | Podcast",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "10k | 2h2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "-13.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-5.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "annotated-text-content": {
+              "text": "10k | 2h",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "3",
+                  "annotated-text-style": {
+                    "font-weight": "600.0",
+                    "typeface": "Gibson",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "0.0",
+                      "saturation": "0.0",
+                      "value": "0.2"
+                    }
+                  }
+                },
+                {
+                  "span-start": "3",
+                  "span-length": "5",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "0.0",
+                      "saturation": "0.0",
+                      "value": "0.2"
+                    }
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Rectangle 23",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "-12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              }
+            },
+            "vector-content": "rectangle_23.svg"
+          },
+          {
+            "id": "Heart2",
+            "margin": {
+              "left": "266.0",
+              "top": "120.0",
+              "right": "65.0",
+              "bottom": "12.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "heart2.svg"
+          },
+          {
+            "id": "Author2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "100.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "122.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Karmen Baric2",
+              "Profile Pic2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Karmen Baric2",
+            "margin": {
+              "left": "36.0",
+              "top": "7.0",
+              "bottom": "4.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Karmen Baric",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Profile Pic2",
+            "margin": {
+              "right": "92.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Ellipse 8"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Ellipse 8",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "vector-content": "ellipse_8.svg"
+          },
+          {
+            "id": "Filter",
+            "margin": {
+              "left": "227.0",
+              "top": "9.0",
+              "bottom": "8.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Highest rated",
+              "Group",
+              "ant-design:caret-down-outlined"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Today",
+            "margin": {
+              "right": "277.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "text-content": "Today",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Highest rated",
+            "margin": {
+              "left": "18.0",
+              "right": "21.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "170.79754601226995",
+              "saturation": "0.9702380952380951",
+              "value": "0.6588235294117647"
+            },
+            "text-content": "Highest rated",
+            "overflow": "visible",
+            "text-align": "left",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Group",
+            "margin": {
+              "top": "5.0",
+              "right": "104.0",
+              "bottom": "6.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector",
+              "Vector1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "ant-design:caret-down-outlined",
+            "margin": {
+              "left": "100.0",
+              "top": "3.0",
+              "bottom": "4.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector2"
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "3.4124755859375",
+              "top": "3.797943115234375",
+              "right": "3.818115234375",
+              "bottom": "3.4326019287109375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "2.499755859375",
+              "top": "4.6875",
+              "right": "2.499755859375",
+              "bottom": "4.687889099121094"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Filter1",
+            "presence": "false",
+            "margin": {
+              "left": "227.0",
+              "top": "9.0",
+              "bottom": "8.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Highest rated1",
+              "Group1",
+              "ant-design:caret-down-outlined1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Top Themes",
+            "margin": {
+              "right": "213.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "text-content": "Top Themes",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Highest rated1",
+            "margin": {
+              "left": "18.0",
+              "right": "21.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "170.79754601226995",
+              "saturation": "0.9702380952380951",
+              "value": "0.6588235294117647"
+            },
+            "text-content": "Highest rated",
+            "overflow": "visible",
+            "text-align": "left",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Group1",
+            "margin": {
+              "top": "5.0",
+              "right": "104.0",
+              "bottom": "6.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector3",
+              "Vector4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "ant-design:caret-down-outlined1",
+            "margin": {
+              "left": "100.0",
+              "top": "3.0",
+              "bottom": "4.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector5"
+            ]
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "3.4124755859375",
+              "top": "3.797943115234375",
+              "right": "3.818115234375",
+              "bottom": "3.432586669921875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector5",
+            "margin": {
+              "left": "2.499755859375",
+              "top": "4.6875",
+              "right": "2.499755859375",
+              "bottom": "4.687896728515625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Themes",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "148.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 28",
+              "Architecture"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Themes1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "158.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "148.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 29",
+              "Architecture1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Themes2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "470.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "156.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 30",
+              "Architecture2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Themes3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "314.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "148.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 31",
+              "Architecture3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 28",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_28.svg"
+          },
+          {
+            "id": "Architecture",
+            "margin": {
+              "left": "12.6136474609375",
+              "top": "69.0",
+              "right": "17.6590576171875",
+              "bottom": "17.93182373046875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Architecture",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "17.0",
+            "letter-spacing": "-0.40799999237060547",
+            "line-height": "1.2941175842285155",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Rectangle 29",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_29.svg"
+          },
+          {
+            "id": "Architecture1",
+            "margin": {
+              "left": "12.6136474609375",
+              "top": "69.0",
+              "right": "17.6590576171875",
+              "bottom": "17.93182373046875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Architecture",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "17.0",
+            "letter-spacing": "-0.40799999237060547",
+            "line-height": "1.2941175842285155",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Rectangle 30",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_30.svg"
+          },
+          {
+            "id": "Architecture2",
+            "margin": {
+              "left": "13.29541015625",
+              "top": "69.0",
+              "right": "18.6136474609375",
+              "bottom": "17.93182373046875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Architecture",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "17.0",
+            "letter-spacing": "-0.40799999237060547",
+            "line-height": "1.2941175842285155",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Rectangle 31",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_31.svg"
+          },
+          {
+            "id": "Architecture3",
+            "margin": {
+              "left": "12.6136474609375",
+              "top": "69.0",
+              "right": "17.6590576171875",
+              "bottom": "17.93182373046875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Architecture",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "17.0",
+            "letter-spacing": "-0.40799999237060547",
+            "line-height": "1.2941175842285155",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Rectangle 24",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "375.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              }
+            }
+          },
+          {
+            "id": "User",
+            "margin": {
+              "left": "12.0",
+              "top": "11.0",
+              "right": "335.0",
+              "bottom": "11.829925537109375"
+            },
+            "is-structured": "false",
+            "children": [
+              "Hitbox",
+              "magnifying glass"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Add note",
+            "margin": {
+              "left": "335.0",
+              "top": "12.0",
+              "right": "12.0",
+              "bottom": "12.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Hitbox1",
+              "Vector8"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Notes",
+            "margin": {
+              "left": "98.0",
+              "right": "186.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 25",
+              "Home1",
+              "Rectangle 26"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Home",
+            "margin": {
+              "left": "205.0",
+              "top": "11.0",
+              "right": "126.0",
+              "bottom": "10.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Notes1",
+              "Rectangle 16",
+              "Rectangle 27"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Hitbox",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "magnifying glass",
+            "is-structured": "false",
+            "children": [
+              "Vector6",
+              "Vector7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector6",
+            "presence": "false",
+            "margin": {
+              "top": "1.0",
+              "bottom": "0.170074462890625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector7",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Hitbox1",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector8",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "Rectangle 25",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Home1",
+            "margin": {
+              "left": "21.0",
+              "top": "11.0",
+              "right": "21.0",
+              "bottom": "10.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "170.79754601226995",
+              "saturation": "0.9702380952380951",
+              "value": "0.6588235294117647"
+            },
+            "text-content": "Home",
+            "overflow": "visible",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Rectangle 26",
+            "margin": {
+              "top": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_25.svg"
+          },
+          {
+            "id": "Notes1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "text-content": "Notes",
+            "overflow": "visible",
+            "line-height": "1.665",
+            "typeface": "Gibson"
+          },
+          {
+            "id": "Rectangle 16",
+            "presence": "false",
+            "margin": {
+              "top": "29.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Rectangle 27",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Battery",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "-14.3387451171875"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "17.333343505859375"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.3280029296875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.333343505859375"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Border",
+              "Cap",
+              "Capacity"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Time Style",
+            "margin": {
+              "left": "21.0",
+              "top": "7.0",
+              "right": "300.0",
+              "bottom": "16.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Time"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Border",
+            "margin": {
+              "right": "2.3280029296875"
+            },
+            "border-radius": "2.6666667461395264",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "border.svg"
+          },
+          {
+            "id": "Cap",
+            "margin": {
+              "left": "23.0",
+              "top": "3.666656494140625",
+              "bottom": "3.66668701171875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "cap.svg"
+          },
+          {
+            "id": "Capacity",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "4.3280029296875",
+              "bottom": "2.0"
+            },
+            "border-radius": "1.3333333730697632",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "capacity.svg"
+          },
+          {
+            "id": "Time",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "5.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "9:41",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "15.0",
+            "letter-spacing": "-0.23999999463558197",
+            "line-height": "1.3333332824707032",
+            "typeface": "SF Pro Text"
+          },
+          {
+            "id": "Navbar",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "navbar.svg"
+          },
+          {
+            "id": "Library",
+            "margin": {
+              "left": "50.0",
+              "top": "15.0",
+              "right": "301.0",
+              "bottom": "15.47723388671875"
+            },
+            "is-structured": "false",
+            "children": [
+              "Hitbox2",
+              "Library1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Note",
+            "margin": {
+              "left": "176.0",
+              "top": "12.999969482421875",
+              "right": "175.0",
+              "bottom": "12.510223388671875"
+            },
+            "is-structured": "false",
+            "children": [
+              "Hitbox3",
+              "Note1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "User1",
+            "margin": {
+              "left": "303.0",
+              "top": "15.0",
+              "right": "51.9920654296875",
+              "bottom": "15.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Hitbox4",
+              "Vector10"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Search",
+            "margin": {
+              "left": "331.0",
+              "top": "6.0",
+              "right": "44.0",
+              "bottom": "44.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Hitbox5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Line 8",
+            "margin": {
+              "top": "1.0",
+              "bottom": "49.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "line_8.svg"
+          },
+          {
+            "id": "Rectangle 32",
+            "margin": {
+              "left": "125.0",
+              "right": "125.0",
+              "bottom": "46.0"
+            },
+            "border-radius": "2.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_24.svg"
+          },
+          {
+            "id": "Rectangle 33",
+            "presence": "false",
+            "margin": {
+              "left": "250.0",
+              "bottom": "46.0"
+            },
+            "border-radius": "2.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Rectangle 34",
+            "presence": "false",
+            "margin": {
+              "right": "250.0",
+              "bottom": "46.0"
+            },
+            "border-radius": "2.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Hitbox2",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Library1",
+            "is-structured": "false",
+            "children": [
+              "Vector9"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector9",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector5.svg"
+          },
+          {
+            "id": "Hitbox3",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Note1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "note.svg"
+          },
+          {
+            "id": "Hitbox4",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector10",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector6.svg"
+          },
+          {
+            "id": "Hitbox5",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Notes - Home",
+      "size": {
+        "width": 375.0,
+        "height": 816.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

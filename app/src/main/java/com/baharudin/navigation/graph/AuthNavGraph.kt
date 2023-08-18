@@ -4,7 +4,7 @@ import androidx.navigation.NavGraphBuilder
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.composable
 import androidx.navigation.navigation
-import com.baharudin.navigation.screen.auth.ForgotPasswordScreen
+import com.baharudin.navigation.screen.auth.forgot_password.ForgotPasswordScreen
 import com.baharudin.navigation.screen.auth.LoginScreen
 import com.baharudin.navigation.screen.auth.RegisterScreen
 
