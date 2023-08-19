@@ -5,8 +5,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.composable
 import androidx.navigation.navigation
 import com.baharudin.navigation.screen.auth.forgot_password.ForgotPasswordScreen
-import com.baharudin.navigation.screen.auth.LoginScreen
-import com.baharudin.navigation.screen.auth.RegisterScreen
+import com.baharudin.navigation.screen.auth.login.LoginScreen
+import com.baharudin.navigation.screen.auth.registrasi.RegisterScreen
 
 fun NavGraphBuilder.authNavGraph(navHostController: NavHostController) {
     navigation(
@@ -17,7 +17,7 @@ fun NavGraphBuilder.authNavGraph(navHostController: NavHostController) {
             LoginScreen(navHostController)
         }
         composable(route = AuthScreen.Register.route) {
-            RegisterScreen()
+            RegisterScreen(navHostController)
         }
         composable(route = AuthScreen.ForgotPassword.route) {
             ForgotPasswordScreen()

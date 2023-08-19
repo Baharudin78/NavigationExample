@@ -18,6 +18,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.baharudin.navigation.R
 import com.baharudin.navigation.graph.Graph
+import com.baharudin.navigation.screen.component.ButtonComponent
+import com.baharudin.navigation.screen.component.OutlinedTextFieldComponent
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -29,78 +31,43 @@ fun CardLogin(
         modifier
             .fillMaxWidth()
             .padding(16.dp), shape = RoundedCornerShape(20.dp),
-        colors = CardDefaults.cardColors()
+        colors = CardDefaults.cardColors(containerColor = Color.White)
     ) {
         var username by remember { mutableStateOf("") }
         var password by remember { mutableStateOf("") }
-        Row(
+        OauthAlternativeComponent(
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(top = 16.dp, start = 16.dp, end = 16.dp),
-            horizontalArrangement = Arrangement.SpaceAround
-        ) {
-            ElevatedButton(
-                modifier = Modifier
-                    .weight(1f)
-                    .padding(start = 16.dp, end = 10.dp),
-                onClick = { /*TODO*/ }) {
-                Image(painter = painterResource(id = R.drawable.google), contentDescription = "")
-                Text(text = "Google", modifier = Modifier.padding(start = 10.dp))
-            }
-
-            ElevatedButton(
-                modifier = Modifier
-                    .weight(1f)
-                    .padding(start = 10.dp, end = 16.dp),
-                onClick = { /*TODO*/ }) {
-                Image(painter = painterResource(id = R.drawable.facebooks), contentDescription = "")
-                Text(text = "Facebook", modifier = Modifier.padding(start = 10.dp))
-            }
-        }
+        )
         Column(
             modifier = Modifier
                 .fillMaxWidth()
                 .background(color = Color.Transparent)
                 .padding(16.dp)
         ) {
-            OutlinedTextField(
-                value = username,
-                placeholder = { Text(text = "Username") },
-                onValueChange = { username = it },
-                shape = RoundedCornerShape(30.dp),
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .padding(start = 16.dp, end = 16.dp)
-                    .background(color = Color.White)
+            OutlinedTextFieldComponent(
+                placeholders = "Username",
+                values = username,
+                onValueChanges = { username = it },
+                keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Text)
             )
 
             Spacer(modifier = Modifier.height(12.dp))
 
-            OutlinedTextField(
-                value = password,
-                placeholder = { Text(text = "Password") },
-                onValueChange = { password = it },
-                shape = RoundedCornerShape(30.dp),
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .padding(start = 16.dp, end = 16.dp)
-                    .background(color = Color.White),
-                visualTransformation = PasswordVisualTransformation(),
-                keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Password)
+            OutlinedTextFieldComponent(
+                placeholders = "Password",
+                values = password,
+                onValueChanges = { password = it },
+                keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Password),
+                visualTransformation = PasswordVisualTransformation()
             )
 
             Spacer(modifier = Modifier.height(12.dp))
 
-            Button(
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .height(50.dp),
-                shape = RoundedCornerShape(16.dp),
-                onClick = {
-                    navHostController.navigate(Graph.HOME)
-                }) {
-                Text(text = "Login", color = Color.White)
-            }
+            ButtonComponent(onClick = {
+                navHostController.navigate(Graph.HOME)
+            }, text = "Login")
 
         }
     }
